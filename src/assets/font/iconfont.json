@@ -1,0 +1,30 @@
+{
+  "id": "2233184",
+  "name": "123",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3837056",
+      "name": "酒杯",
+      "font_class": "jiubei",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "8799049",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "14329761",
+      "name": "图片",
+      "font_class": "tupian",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    }
+  ]
+}

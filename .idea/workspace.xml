@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d283eab-c3ed-4252-81e7-c016b3cf789f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/font/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/demo_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/anima.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/happy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/happytest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/happywine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sadtest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sadwine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/sky1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/smile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/index/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/index/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/work/common/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/work/common/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/work/common/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/work/common/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/work/page/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/work/page/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/work/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/work/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/work/work.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/work/work.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/lunbomusic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/lunbomusic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/lunboview.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/lunboview.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/lunboview2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/lunboview2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/lunbowine2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/lunbowine2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/lunbowine3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/lunbowine3.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jpUjIo0RWGaaC3DKtvGTzWILaE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\vue\clone\AI_Bartender\src\assets\img" />
+      <recent name="D:\vue\clone\AI_Bartender\src\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d283eab-c3ed-4252-81e7-c016b3cf789f" name="Default Changelist" comment="" />
+      <created>1604500659337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604500659337</updated>
+      <workItem from="1604500660376" duration="4379000" />
+      <workItem from="1604552894261" duration="7959000" />
+      <workItem from="1604586847152" duration="778000" />
+      <workItem from="1604629451639" duration="19669000" />
+      <workItem from="1604920622749" duration="4653000" />
+      <workItem from="1604925736667" duration="1801000" />
+      <workItem from="1605256986568" duration="684000" />
+      <workItem from="1605257707561" duration="1528000" />
+      <workItem from="1605321517699" duration="1078000" />
+      <workItem from="1606123389166" duration="1972000" />
+      <workItem from="1606439502245" duration="29118000" />
+      <workItem from="1606490180194" duration="4333000" />
+      <workItem from="1606529464289" duration="1144000" />
+      <workItem from="1606531247652" duration="1588000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604556698944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604556698944" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1606531317496">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606531317496" />
+  </component>
+</project>
